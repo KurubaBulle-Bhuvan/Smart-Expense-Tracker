@@ -1,5 +1,3 @@
-Done by kuruba Bulle Bhuvan
-
 1.Clone the repository
 
 2.Open Android Studio.
