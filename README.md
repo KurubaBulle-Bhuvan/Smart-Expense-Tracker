@@ -1,10 +1,7 @@
 ## Features Continued
 - **Expense Reports**: Generate detailed expense reports over custom time periods (daily, weekly, monthly).
 - **Expense Summary**: View an overview of your expenses with a clear summary.
-- **Data Export**: Export your expense data to CSV for analysis or reporting.
-- **Notifications**: Get notified when an expense exceeds a set budget limit.
 - **Chart Customization**: Customize the charts for better visual representation of your data.
-- **Multi-Language Support**: Easily switch between supported languages for a global audience.
 - **Offline Mode**: Track your expenses without an internet connection; data will sync once back online.
 
 ## Prerequisites
